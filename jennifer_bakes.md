@@ -36,6 +36,10 @@ Step 6: Responses The responses available are Text, Option, Pause and Image. I u
 ![9](https://user-images.githubusercontent.com/116030115/196272674-660e1568-84cb-4866-9a60-69e48690a44c.png)
 ![10](https://user-images.githubusercontent.com/116030115/196272689-251493f2-7a03-48e5-84d4-057361ac0a0b.png)
 ![11](https://user-images.githubusercontent.com/116030115/196272702-a0adfc33-92b5-43cd-b9c7-ce2d0f959708.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/116030115/196278782-2ca188b8-e90c-4475-9203-8d4c850b8046.png)
+
+
+
 # Limitations
 This chatbot requires a lot more intents and entities to make it robot
 # Learnings
