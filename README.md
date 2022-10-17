@@ -9,4 +9,5 @@ Google's DialogFlow platform is used in the entire process of building this chat
 # Link to access the chatbot made
 https://bot.dialogflow.com/b28dcc45-cbc6-48ac-b077-4dc1a97467bd
 # Screenshots showing the functioning of this chatbot
-![](chatbot/1.png)
+![](images/1.png)
+
